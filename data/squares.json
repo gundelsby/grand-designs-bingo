@@ -1,0 +1,374 @@
+[
+	{
+		"text": "Something is said to be \"bespoke\"",
+		"probability": 100
+	},
+	{
+		"text": "City couple builds in the country side",
+		"probability": 100
+	},
+	{
+		"text": "House is at least partially under ground",
+		"probability": 100
+	},
+	{
+		"text": "Kevin speaks a foreign language",
+		"probability": 100
+	},
+	{
+		"text": "Husband works full time to fund the project",
+		"probability": 100
+	},
+	{
+		"text": "Couple has an argument with the architect",
+		"probability": 100
+	},
+	{
+		"text": "Couple has an argument with the builder",
+		"probability": 100
+	},
+	{
+		"text": "Wife quits job to project manage",
+		"probability": 100
+	},
+	{
+		"text": "Budget blown due to extragavant furniture or decoration",
+		"probability": 100
+	},
+	{
+		"text": "Funding not secured before build starts",
+		"probability": 100
+	},
+	{
+		"text": "Owners are expecting a baby while living in a caravan",
+		"probability": 100
+	},
+	{
+		"text": "Labour paid in items instead of cash",
+		"probability": 100
+	},
+	{
+		"text": "Labour paid in naturalia",
+		"probability": 100
+	},
+	{
+		"text": "The owners have not secured planning permission",
+		"probability": 100
+	},
+	{
+		"text": "The owners ignore a clause of their planning permission",
+		"probability": 100
+	},
+	{
+		"text": "Problems with expensive custom made windows",
+		"probability": 100
+	},
+	{
+		"text": "Access to the site is difficult",
+		"probability": 100
+	},
+	{
+		"text": "Kevin McCloud predicts that the project is doomed to failure",
+		"probability": 100
+	},
+	{
+		"text": "Kevin says \"stonking\"",
+		"probability": 100
+	},
+	{
+		"text": "Cows are shown on screen",
+		"probability": 100
+	},
+	{
+		"text": "Pre-fab or kit house",
+		"probability": 100
+	},
+	{
+		"text": "Incompetent use of heavy machinery",
+		"probability": 100
+	},
+	{
+		"text": "Composting toilets",
+		"probability": 100
+	},
+	{
+		"text": "Partial collapse of a building",
+		"probability": 100
+	},
+	{
+		"text": "The build involves a listed building ",
+		"probability": 100
+	},
+	{
+		"text": "Kevin does couples counceling",
+		"probability": 100
+	},
+	{
+		"text": "Wife cries from joy",
+		"probability": 100
+	},
+	{
+		"text": "Wife cries in desperation",
+		"probability": 100
+	},
+	{
+		"text": "Rain stops everything",
+		"probability": 100
+	},
+	{
+		"text": "Kevin explains something using a model made from makeshift materials",
+		"probability": 100
+	},
+	{
+		"text": "Couple forced to rent because they sold the old home before they could move into the new",
+		"probability": 100
+	},
+	{
+		"text": "Couple lives in a caravan",
+		"probability": 100
+	},
+	{
+		"text": "Couple has to live on site to save cash",
+		"probability": 100
+	},
+	{
+		"text": "Foreign builders getting things done",
+		"probability": 100
+	},
+	{
+		"text": "Eco-build using eco-unfriendly concrete",
+		"probability": 100
+	},
+	{
+		"text": "Kevin gets excited by concrete",
+		"probability": 100
+	},
+	{
+		"text": "Project is 1 month behind schedule",
+		"probability": 100
+	},
+	{
+		"text": "Project is 2 months behind schedule",
+		"probability": 100
+	},
+	{
+		"text": "Project is 3 months behind schedule",
+		"probability": 100
+	},
+	{
+		"text": "Project is 6 months behind schedule",
+		"probability": 100
+	},
+	{
+		"text": "Triple glazed anything",
+		"probability": 100
+	},
+	{
+		"text": "Flat roof problems",
+		"probability": 100
+	},
+	{
+		"text": "Kevin gets excited about a staircase",
+		"probability": 100
+	},
+	{
+		"text": "\"Ingenious\"",
+		"probability": 100
+	},
+	{
+		"text": "\"Cutting edge technology\"",
+		"probability": 100
+	},
+	{
+		"text": "Project start is significantly delayed waiting for planning permission",
+		"probability": 100
+	},
+	{
+		"text": "Delayed deliveries of custom materials delays whole project for weeks",
+		"probability": 100
+	},
+	{
+		"text": "House not watertight before winter rain",
+		"probability": 100
+	},
+	{
+		"text": "Project delayed by rain",
+		"probability": 100
+	},
+	{
+		"text": "Huge impractial windows to create indoor-outdoor living space",
+		"probability": 100
+	},
+	{
+		"text": "\"The British winter\"",
+		"probability": 100
+	},
+	{
+		"text": "Double height living room",
+		"probability": 100
+	},
+	{
+		"text": "Couple fails to meet own deadline, despite being confident to make it",
+		"probability": 100
+	},
+	{
+		"text": "Project lasts for more than two years",
+		"probability": 100
+	},
+	{
+		"text": "Project lasts for more than one year",
+		"probability": 100
+	},
+	{
+		"text": "Fails to be in by Christmas",
+		"probability": 100
+	},
+	{
+		"text": "Wants to be in by Christmas",
+		"probability": 100
+	},
+	{
+		"text": "Couple moves into unfinished house",
+		"probability": 100
+	},
+	{
+		"text": "Kevin in ugly boots",
+		"probability": 100
+	},
+	{
+		"text": "Kevin in a big scarf",
+		"probability": 100
+	},
+	{
+		"text": "Kevin wears that funny hat",
+		"probability": 100
+	},
+	{
+		"text": "Kevin in a leather jacket",
+		"probability": 100
+	},
+	{
+		"text": "Skylights that will be impossible to clean",
+		"probability": 100
+	},
+	{
+		"text": "Second pregnancy during the project",
+		"probability": 100
+	},
+	{
+		"text": "Baby born during the project",
+		"probability": 100
+	},
+	{
+		"text": "Pregnancy during the project",
+		"probability": 100
+	},
+	{
+		"text": "Kevin dislikes the planned design",
+		"probability": 100
+	},
+	{
+		"text": "Kevin won over by the finished project despite initial dislike",
+		"probability": 100
+	},
+	{
+		"text": "Kevin dislikes the finished design, but pretends not to",
+		"probability": 100
+	},
+	{
+		"text": "Borrows extra money from family",
+		"probability": 100
+	},
+	{
+		"text": "Children currently shares a room",
+		"probability": 100
+	},
+	{
+		"text": "Family has a dog",
+		"probability": 100
+	},
+	{
+		"text": "Architect is fired",
+		"probability": 100
+	},
+	{
+		"text": "Architect goes on vacation/leave",
+		"probability": 100
+	},
+	{
+		"text": "Architect quits",
+		"probability": 100
+	},
+	{
+		"text": "Project manager is fired",
+		"probability": 100
+	},
+	{
+		"text": "Project manager quits",
+		"probability": 100
+	},
+	{
+		"text": "Not hiring a project manager",
+		"probability": 100
+	},
+	{
+		"text": "No architect",
+		"probability": 100
+	},
+	{
+		"text": "Kevin sceptical about the budget",
+		"probability": 100
+	},
+	{
+		"text": "Kevin sceptical about the design",
+		"probability": 100
+	},
+	{
+		"text": "Staircase doesn't fit",
+		"probability": 100
+	},
+	{
+		"text": "Build is in some way \"eco\"",
+		"probability": 100
+	},
+	{
+		"text": "Something ordered from Scandinavia",
+		"probability": 100
+	},
+	{
+		"text": "Something ordered from Germany",
+		"probability": 100
+	},
+	{
+		"text": "Money runs out",
+		"probability": 100
+	},
+	{
+		"text": "Architect is a friend",
+		"probability": 100
+	},
+	{
+		"text": "Architect is a relative",
+		"probability": 100
+	},
+	{
+		"text": "Friends that aren't builders helping out",
+		"probability": 100
+	},
+	{
+		"text": "Family members that aren't builders helping out",
+		"probability": 100
+	},
+	{
+		"text": "Kevin helps with the build",
+		"probability": 100
+	},
+	{
+		"text": "Wife is project managing",
+		"probability": 100
+	},
+	{
+		"text": "Windows are delayed",
+		"probability": 100
+	}
+]
