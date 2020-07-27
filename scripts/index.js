@@ -1,4 +1,4 @@
-import SquareDataStore from './data/square-store.js';
+import SquareDataStore from '../data/square-store.js';
 
 console.log('Initalizing game...');
 
