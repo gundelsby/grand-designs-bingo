@@ -4,7 +4,7 @@
 	"description": "Bingo game for the TV series Grand Designs",
 	"main": "index.js",
 	"scripts": {
-		"start": "static .",
+		"start": "static -a 0.0.0.0 -p 80 .",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {

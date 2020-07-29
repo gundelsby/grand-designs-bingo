@@ -1,1 +1,11 @@
+@import './colorscheme.css';
 @import './card.css';
+
+body {
+	background-color: black;
+	color: var(--text-color);
+}
+
+.game-area {
+	background-color: var(--game-background);
+}

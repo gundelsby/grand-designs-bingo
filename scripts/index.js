@@ -1,8 +1,9 @@
-import SquareDataStore from '../data/square-store.js';
+import SquareDataStore from './data/square-store.js';
+import './ui/card.js';
 
 console.log('Initalizing game...');
 
-const dataStore = new SquareDataStore('/data/squares.json');
+const dataStore = new SquareDataStore('../data/squares.json');
 
 async function init() {
 	for (const card of document.querySelectorAll('.bingo-card')) {
